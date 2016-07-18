@@ -1,0 +1,17 @@
+---
+layout: default
+title: Home
+---
+
+<div class="header">
+  <img class="top_bird" style="width:600px;" src="img/title.png"/>
+  <h1>Captain Z and the Treasure of Castle Island</h1>
+  <h3>by Jim Vallandingham</h3>
+</div>
+
+{% for post in site.posts reversed %}
+<div class="chapter">
+  {{ post.content }}
+</div>
+{% endfor %}
+
