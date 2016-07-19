@@ -1,4 +1,4 @@
-\documentclass[12pt]{extbook}
+\documentclass[12pt]{book}
 
 % \usepackage[paperwidth=5.5in, paperheight=8.5in, margin=0.3in]{geometry}
 % \usepackage[paperwidth=8.5in, paperheight=11in, margin=0.5in]{geometry}
@@ -15,14 +15,14 @@
 
 %% Fonts
 \setmainfont{Adobe Garamond Pro}
-\setsansfont{Adobe Garamond Pro}
+\setsansfont{Montserrat Semi Bold}
 \setmonofont[Mapping=tex-ansi]{Menlo}
 
 \newfontfamily\coder[Mapping=tex-ansi]{Menlo}
 
 %% Set Sans font in headings
-% \usepackage{sectsty}
-% \allsectionsfont{\sffamily}
+\usepackage{sectsty}
+\allsectionsfont{\sffamily}
 
 %% Set polyglossia language
 \usepackage{polyglossia}
@@ -30,22 +30,31 @@
 
 % \usepackage[fontsize=16pt]{scrextend}
 
+
+% \def\tightlist{}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 \usepackage{titlesec}
 % \titleformat{\chapter}[display]
+%    {\normalfont\sffamily\huge\bfseries\centering}
+%    {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+% \titleformat{\section}
 %   {\normalfont\sffamily\huge\bfseries\centering}
-%   {\chaptertitlename\ \thechapter}{20pt}{\Huge}
-\titleformat{\section}
-  {\normalfont\sffamily\huge\bfseries\centering}
-  {\thesection}{1em}{\Huge}
-% \titlespacing*{\chapter}{0pt}{30pt}{20pt}
+%   {\thesection}{1em}{\Huge}
 
-% \usepackage{titlesec}
-% \titleformat{\chapter}[display]
-% {\normalfont\huge\bfseries}{\centering\chaptertitlename\ \thechapter}{20pt}{\Huge}
+%\titlespacing*{\chapter}{0pt}{30pt}{20pt}
+
+%\usepackage{titlesec}
+%\titleformat{\chapter}[display]
+%{\normalfont\huge\bfseries}{\centering\chaptertitlename\ \thechapter}{20pt}{\Huge}
 
 
-% new page for every chapter
-% \newcommand{\sectionbreak}{\clearpage}
+% new page for every chapter (section?)
+%\newcommand{\sectionbreak}{\clearpage}
+
 
 % Page
 
@@ -60,11 +69,11 @@
 \renewcommand{\headrulewidth}{0.0pt}
 % \headrulewidth 0.0pt
 % \fancyfoot[C]{\thepage}
-\fancyfoot[RO, LE] {\thepage}
+% \fancyfoot[RO, LE] {\thepage}
 
 %% Set line spacing
 \usepackage{setspace}
-\setstretch{1.2}
+\setstretch{1.1}
 
 %% Disable paragraph indentation
 \usepackage{parskip}
@@ -162,10 +171,12 @@
 
   % \includepdf[pages={1}]{img/captain_z_title_2.pdf}
 
+
   \pagestyle{empty}
   \vspace*{\fill}
   \begin{center}
-  \huge{Adventure Club}\\[0.5cm]
+  \huge{\textsf{ADVENTURE CLUB}}\\
+  \huge{\textsf{HANDBOOK}}\\[0.5cm]
   \end{center}
   \vspace*{\fill}
   % \afterpage{\blankpage}
@@ -174,9 +185,10 @@
   \begin{titlepage}
     \vspace*{\fill}
     \begin{center}
-      \huge{Adventure Club}\\[0.5cm]
-      \huge{Handbook}\\[0.5cm]
-      \large {Jimmy Vallandingham}\\[0.4cm]
+      \huge{\textsf{ADVENTURE CLUB}}\\
+      \huge{\textsf{HANDBOOK}}\\[0.5cm]
+      \vspace*{\fill}
+      \large {Currated by Jimmy, Bethany, Zia, and Eli Vallandingham}\\[0.4cm]
     \end{center}
     \vspace*{\fill}
   % \clearpage
