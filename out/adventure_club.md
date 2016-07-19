@@ -52,3 +52,13 @@ Completing the right combinations of adventures will earn you adventure badges.
 # Self Path
 
 ![](img/self.png){ width=100% }
+
+
+# Family Path
+
+![](img/family.png){ width=100% }
+
+
+# Community Path
+
+![](img/community.png){ width=100% }
