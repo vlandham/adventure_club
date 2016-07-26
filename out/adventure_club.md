@@ -11,54 +11,54 @@ and as a guide for getting the most out of your adventuring.
 
 But first, some information about what Adventure Club is, and how it is organized.
 
+## The Club
+
+Adventure Club is about getting you out into nature.
+The club will serve to guide help with your nature adventures, without getting in the way of your discoveries and experiences.
+
+The club will provide guidance and leadership for this nature exploration.
+
 ## Adventures
 
 As you might have guessed, Adventure Club's main focus is on taking adventures.
 
-In the club, an adventure is a specific task that you complete by performing the required steps of the task.
+In the club, an adventure is a specific experience you take part in.
+Some adventures have specific tasks
 
-This book provides you the reader the possible adventures of the Adventure Club.
+This book provides you with adventures suggested by the Adventure Club.
 
 Adventures should be worthwhile, interesting, and fun.
 
-## The Four Paths
+## Adventure Types
 
-Adventuring can take many forms. While the focus of Adventure Club is on exploring and engaging with nature,
-we understand that our adventures can also take place in our homes, communities, and even in ourselves.
+Adventuring comes in many forms and can happen in many locations.
+To highlight these different avenues into adventures, this handbook is organized into four different sections highlighting where and how these different adventures can occur.
 
-For this reason, Adventure Club promotes adventures along four main paths:
-
-* Nature
-* Self
-* Family
-* Community
-
-These paths serve to group and organize adventures, with the understanding that
-adventures in reality often cross multiple paths.
-
-These paths focus on different types of adventures. No one path is better or worse then the others,
-but they allow different people to adventure in ways that most interest them.
+* _Adventures in the wild_ will look at adventuring in the great outdoors.
+* _Adventures in the city_ will look at urban exploration and all the mysteries your hometown can hold.
+* _Adventures in the home_ focuses on having fun in your own home. Adventures lie behind every door and in every cabinet.
+* _Adventures in the mind_ dives into your own imagination to show the adventures that can be found there.
 
 ## Adventure Badges
 
 Completing the right combinations of adventures will earn you adventure badges.
 
 
-# Nature Path
+# Adventures in the Wild
 
 ![](img/nature.png){ width=100% }
 
 
-# Self Path
+# Adventures in the City
 
-![](img/self.png){ width=100% }
+![](img/community.png){ width=100% }
 
 
-# Family Path
+# Adventures in the Home
 
 ![](img/family.png){ width=100% }
 
 
-# Community Path
+# Adventures in the Mind
 
-![](img/community.png){ width=100% }
+![](img/self.png){ width=100% }

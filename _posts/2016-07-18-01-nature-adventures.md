@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Nature
+title: Wild
 count: 02
 ---
 
 
-# Nature Path
+# Adventures in the Wild
 
 ![](img/nature.png){ width=100% }
